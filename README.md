@@ -1,4 +1,4 @@
-# Projeto 'Criação de uma PWA para mapear dados da COVID-19 pelo mundo' feito com React.JS.
+# Projeto 'Criação de uma PWA para mapear dados da COVID-19 pelo mundo' feito com React.JS
 
 
 # Getting Started with Create React App
