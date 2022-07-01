@@ -1,7 +1,7 @@
 # Projeto 'Criação de uma PWA para mapear dados da COVID-19 pelo mundo' feito com React.JS
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
