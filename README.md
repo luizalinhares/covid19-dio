@@ -1,3 +1,6 @@
+# Projeto 'Criação de uma PWA para mapear dados da COVID-19 pelo mundo' feito com React.JS.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![Captura de tela 2022-07-01 002340](https://user-images.githubusercontent.com/100442678/176817552-bd1ac1d6-c240-4e8e-ae85-ae220941b8d9.png)
